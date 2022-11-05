@@ -18,3 +18,6 @@ Since It was my first time building someting like this, It took 7 hours for me t
 # Author and Contact
 
 [Charmi Goplani](mailto:goplanicharmy@gmail.com)
+
+# Project Link
+[Deployment Link](https://my-landing-page-1.netlify.app/)
